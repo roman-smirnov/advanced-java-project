@@ -1,4 +1,4 @@
-﻿# Project Proposal
+# Project Proposal
 
 ## Authors
 Stav Rockah
@@ -69,6 +69,7 @@ Displays all downloaded books
 
 #### Book Detail
 Displays details about a single specific book
+
 ![wireframe](https://github.com/roman-smirnov/advanced-java-project/raw/master/screen_images/Book_Detail.jpg)
 
 #### Profile
