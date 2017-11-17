@@ -1,10 +1,8 @@
 ﻿# Project Proposal
 
 ## Authors
-__Stav Rockah__ 
-307900878
-__Roman Smirnov__
-312914443
+Stav Rockah
+Roman Smirnov
 
 ## TL;DR
 We propose to build an interactive-book application composed of an Android client and Spring server. 
@@ -16,7 +14,6 @@ We propose to build an interactive-book application composed of an Android clien
 By way of the specifications outlined below, the project is of sufficient size and complexity.
 
 
----------------------------------------------------------
 
 # Project Design Document
 
