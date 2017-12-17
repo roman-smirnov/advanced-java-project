@@ -1,66 +1,91 @@
 # Intro to Android
 
+
+![andy android waves hello](andy_hello.gif)
+
 Roman Smirnov
 
-
+---
 
 # Space, the final frontier
 
-> These are the voyages of a developer, his continuing mission:  to explore strange new frameworks, to seek out new libraries and new design patterns, to boldy code what no one has yet uploaded to Github. 
+> ... to explore strange new wolrds, to seek out new life and new civilizations ...
 
-![original series cast](star_trek.jpg)
 
-# The Universe of Android 
+![original series cast](original_series.jpg)
+
+---
+
+# The Universe That Is Android 
 
 | Watches             | TVs           | Consoles                |
 | ------------------- | ------------- | ----------------------- |
 | ![watch](watch.jpg) | ![tv](tv.jpg) | ![console](console.jpg) |
 
-| Cars             | Fridges               | Coffee Makers         |
-| ---------------- | --------------------- | --------------------- |
-| ![car](car.jpg ) | ![fridge](fridge.jpg) | ![coffee](coffee.jpg) |
+| Cars             | Fridges          |   Treadmill        	  |
+| ------------------- | ------------- | ----------------------- |
+| ![car](car.jpg ) | ![fridge](fridge.jpg) |  ![treadmill](treadmill.png)|
 
-| Desktop                 | Treadmill                   | Autonomous Cars                   |
-| ----------------------- | --------------------------- | --------------------------------- |
-| ![desktop](desktop.jpg) | ![treadmill](treadmill.png) | ![autonomous car](autonomous.jpg) |
+---
 
+# A Universe Full of Surprises
+
+| Desktop             | Coffee Makers  | Autonomous Cars  		|
+| ------------------- | ------------- | ----------------------- |
+| ![desktop](desktop.jpg) | ![coffee](coffee.jpg) | ![autonomous car](autonomous.jpg) |
+
+---
 
 
 # Why Android Matters
 
-### Proven and Widely Used
+#### Proven and Widely Used
 
+* Not just Google
 * \> 2 billion active users
 * ~90% of mobile devices
 * ~40% of all internet connected devices
 
-### Not Just Java 
+#### Not Just Java 
 
 * Android development is not limited to Java - can develop in C, C++, Python, etc.
 * Android is a Linux based open-source operating system.
 
+--- 
+
 # Today's Adventure
+![captain kirk](kirk.jpg)
 
-1. How Android works as an Operating System.
-2. How to develop for Android, run and publish apps.  
-3. How our code is compiled and run.
-4. Build an app together and run it. 
+---
+
+# What We'll Learn
+
+- How it works. 
+- How to develop for it.
+- Build an app together.
+
+---
+
+# Android Operating System
+
+![andy android dancing](andy_dance.gif)
+
+---
+
+# Overview
+
+![android os abstract overview](os_abstract.png)
+
+---
 
 
+# Purpose, Structure, Operation
 
-# Android OS  
-
-## Overview
-
+![android os overview](os_detailed.png)
 
 
-![android os overview](os_overview.png)
+---
 
-# Android OS
-
-## Purpose, Structure, Operation
-
-![android os detailed overview](os_detailed.png)
 
 # Android Studio
 
@@ -72,12 +97,13 @@ Roman Smirnov
 - Based on Intellij IDE - easy to use, looks good, works well, numerous features
 - It's possible to develop with something else - not recommended.
 
-
+---
 
 # Development Workflow
 
 ![android development workflow](workflow.png)
 
+---
 
 
 # Minimum API Level
@@ -89,6 +115,8 @@ Roman Smirnov
 - OEMs usually ship phones with the latest available version and provide OTA updates and support for ~2 years.
 - There are support libraries, inependent of API level, which bring new features to older Android versions.
 - Devices not approved by Google don't get support and extension libraries.
+
+---
 
 # Activity
 
@@ -103,6 +131,9 @@ Roman Smirnov
 - It's a Java class we inherit from
 - For anything the user does - an activity method gets called
 - For anything we want to do - we call it
+
+---
+
 
 # Layouts and Resources
 
